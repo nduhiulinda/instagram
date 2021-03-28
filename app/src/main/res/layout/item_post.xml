@@ -31,6 +31,6 @@
         android:text="TextView"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textSize="14sp"
-        tools:text="trying to lock hipster" />
+        tools:text="trying to look good" />
 
 </LinearLayout>
